@@ -1,0 +1,21 @@
+body {
+  color: green;
+  text-align: left;
+}
+
+#veryspecialname {
+  font-size: 32px;
+  font-style: oblique;
+  font-family: Times, "Times New Roman", serif;
+  color: red;
+}
+
+
+
+
+
+.right-align {
+  text-align: right;
+  color: blue;
+  text-decoration: underline;
+}
